@@ -1,0 +1,9 @@
+Hi everybody!!
+My name is Fabio Pecora.
+I am a sophomore at the CSI.
+(College of Staten Island).
+This is a line editor. 
+I hope you have some file to edit and test my editor.
+Have a good day!! :)
+
+

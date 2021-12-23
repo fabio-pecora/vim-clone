@@ -1,0 +1,10 @@
+C:\Users\franc\Desktop\CSC 326 Project\Debug\CSC 326 Project.exe
+C:\Users\franc\Desktop\CSC 326 Project\Debug\CSC 326 Project.pdb
+C:\Users\franc\Desktop\CSC 326 Project - Copy\Debug\CSC 326 Project.exe
+C:\Users\franc\Desktop\CSC 326 Project - Copy\Debug\CSC 326 Project.pdb
+C:\Users\franc\Desktop\vim-clone\CSC 326 Project - Copy\Debug\CSC 326 Project.exe
+C:\Users\franc\Desktop\vim-clone\CSC 326 Project - Copy\Debug\CSC 326 Project.pdb
+C:\Users\franc\Desktop\CSC 326 Project - Copy - Copy\Debug\CSC 326 Project.exe
+C:\Users\franc\Desktop\CSC 326 Project - Copy - Copy\Debug\CSC 326 Project.pdb
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Debug\CSC 326 Project.exe
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Debug\CSC 326 Project.pdb

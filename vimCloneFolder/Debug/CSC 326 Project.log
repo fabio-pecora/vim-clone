@@ -1,0 +1,52 @@
+﻿  Editor.cpp
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.h(44,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.h(50): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.h(49,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.cpp(148,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.cpp(166,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryTreeInterface.h(64,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryTreeInterface.h(83): message : see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.h(84,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.h(103): message : see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.h(89,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.cpp(301,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.cpp(335,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(72,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(91): message : see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(73,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(77,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.cpp(235,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.cpp(245,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.cpp(270,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Editor.cpp(15,11): warning C4101: 'coord': unreferenced local variable
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Editor.cpp(125,23): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Editor.cpp(134,30): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Editor.cpp(191,31): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Editor.cpp(198,39): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Editor.cpp(226,18): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.h(44,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.h(50): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.h(49,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.cpp(148,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\LinkedList.cpp(166,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryTreeInterface.h(64,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryTreeInterface.h(83): message : see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.h(84,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.h(103): message : see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.h(89,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.cpp(301,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinaryNodeTree.cpp(335,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(72,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(91): message : see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(73,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.h(77,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.cpp(235,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.cpp(245,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\franc\Desktop\vim-clone\vimCloneFolder\BinarySearchTree.cpp(270,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  NotFoundException.cpp
+  Position.cpp
+  PrecondViolatedExcep.cpp
+  Update.cpp
+  Generating Code...
+  CSC 326 Project.vcxproj -> C:\Users\franc\Desktop\vim-clone\vimCloneFolder\Debug\CSC 326 Project.exe
